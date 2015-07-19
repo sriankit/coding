@@ -1,0 +1,33 @@
+14 Strange Matrix
+6 SINGLE
+8 STANDARD
+-1
+8 STANDARD
+-1
+2
+0
+6 1
+4 5
+
+2 2
+
+1
+1
+16 1
+1 100000000000
+-1
+1
+9 src/Tasks
+7 -Xmx64M
+4 Main
+19 Tasks.StrangeMatrix
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2013.09.22
+23 September Cook-Off 2013
+1
+18 javaUtils.InReader
+22 javaUtils.OutputWriter
+0
+1

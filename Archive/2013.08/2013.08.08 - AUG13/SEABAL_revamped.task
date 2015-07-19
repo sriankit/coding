@@ -1,0 +1,90 @@
+15 SEABAL_revamped
+6 SINGLE
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+3
+0
+37 5 3
+1 1 1 1 1
+5 5
+2 2
+1 3
+5
+4
+2
+0
+2
+3
+9 0
+1
+1
+2
+3
+1
+1
+49 6 5
+10 2 4 5 3 1
+1 3
+2 3
+3 3
+3 3
+1 5
+5
+6
+3
+2
+3
+2
+
+9 0
+0
+0
+0
+0
+1
+2
+56 5 5
+5 3 4 2 1
+3 3
+2 3
+5 5
+2 5
+3 3
+10
+4
+3
+3
+3
+2
+2
+2
+3
+3
+4
+19 0
+0
+0
+0
+0
+0
+0
+3
+4
+5
+0
+9 src/Tasks
+16 -Xmx256m -Xss64m
+4 Main
+21 Tasks.SEABAL_revamped
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2013.08.08
+5 AUG13
+1
+18 javaUtils.InReader
+22 javaUtils.OutputWriter
+0
+0

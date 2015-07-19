@@ -1,0 +1,33 @@
+15 IceCreamParlour
+6 SINGLE
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+1
+0
+27 2
+4
+5
+1 4 5 3 2
+4
+4
+2 2 4 3
+8 1 4
+1 2
+
+1
+9 src/Tasks
+16 -Xmx256m -Xss64m
+8 Solution
+21 Tasks.IceCreamParlour
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2013.04.15
+16 Hackerrank-20/20
+1
+18 javaUtils.InReader
+22 javaUtils.OutputWriter
+0
+1

@@ -1,0 +1,25 @@
+14 SherlockPuzzle
+6 SINGLE
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+1
+0
+7 2 00010
+1 2
+1
+9 src/Tasks
+16 -Xmx256m -Xss64m
+8 Solution
+20 Tasks.SherlockPuzzle
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2013.09.15
+28 Hackerrank - 20/20 September
+1
+18 javaUtils.InReader
+22 javaUtils.OutputWriter
+0
+1

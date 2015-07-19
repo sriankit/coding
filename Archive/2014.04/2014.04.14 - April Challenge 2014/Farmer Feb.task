@@ -1,0 +1,30 @@
+10 Farmer Feb
+6 SINGLE
+8 STANDARD
+-1
+8 STANDARD
+-1
+1
+0
+10 2
+1 3
+4 3
+
+4 1
+4
+
+1
+9 src/Tasks
+7 -Xmx64M
+4 Main
+15 Tasks.FarmerFeb
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2014.04.14
+20 April Challenge 2014
+1
+18 javaUtils.InReader
+22 javaUtils.OutputWriter
+0
+0

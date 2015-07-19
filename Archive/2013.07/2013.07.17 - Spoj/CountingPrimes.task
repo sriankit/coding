@@ -1,0 +1,32 @@
+14 CountingPrimes
+6 SINGLE
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+1
+0
+38 1
+5 3
+78 2 13 12 3
+1 1 2
+0 4 4 5
+1 1 5
+11 Case 1:
+1
+4
+1
+9 src/Tasks
+16 -Xmx256m -Xss64m
+4 Main
+20 Tasks.CountingPrimes
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2013.07.17
+4 Spoj
+1
+18 javaUtils.InReader
+22 javaUtils.OutputWriter
+0
+0

@@ -1,0 +1,40 @@
+27 A - Kyoya and Colored Balls
+6 SINGLE
+8 STANDARD
+-1
+8 STANDARD
+-1
+2
+0
+8 3
+2
+2
+1
+
+2 3
+
+1
+1
+10 4
+1
+2
+3
+4
+
+5 1680
+
+1
+9 src/Tasks
+8 -Xmx256M
+4 Main
+11 Tasks.TaskA
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2015.06.24
+30 Codeforces Round #309 (Div. 1)
+1
+18 javaUtils.InReader
+22 javaUtils.OutputWriter
+0
+0

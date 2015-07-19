@@ -1,0 +1,99 @@
+14 QTREE_revamped
+12 MULTI_NUMBER
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+2
+0
+231 4
+3
+1 2 1
+2 3 2
+QUERY 1 2
+CHANGE 1 3
+QUERY 1 2
+DONE
+1
+DONE
+0
+DONE
+11
+1 2 3
+2 3 9
+3 4 1
+2 5 4
+5 6 7
+1 7 5
+7 8 2
+7 9 6
+9 11 8
+9 10 7
+QUERY 4 8
+QUERY 10 8
+QUERY 1 6
+QUERY 11 7
+QUERY 4 6
+CHANGE 7 9
+QUERY 10 8
+CHANGE 1 10
+QUERY 2 8
+DONE
+18 1
+3
+9
+7
+7
+8
+9
+9
+10
+1
+1
+167 1
+11
+1 2 3
+2 3 9
+3 4 1
+2 5 4
+5 6 7
+1 7 5
+7 8 2
+7 9 6
+9 11 8
+9 10 7
+QUERY 4 8
+QUERY 10 8
+QUERY 1 6
+QUERY 11 7
+QUERY 4 6
+CHANGE 7 9
+QUERY 10 8
+CHANGE 1 10
+QUERY 2 8
+DONE
+17 9
+7
+7
+8
+9
+9
+10
+
+
+
+1
+9 src/Tasks
+16 -Xmx256m -Xss64m
+4 Main
+20 Tasks.QTREE_revamped
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2013.07.20
+4 Spoj
+1
+18 javaUtils.InReader
+22 javaUtils.OutputWriter
+0
+0

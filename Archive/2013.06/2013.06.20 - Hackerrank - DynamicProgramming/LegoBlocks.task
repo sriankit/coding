@@ -1,0 +1,37 @@
+10 LegoBlocks
+6 SINGLE
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+2
+0
+17 4
+2 2
+3 2
+2 3
+4 4
+10 3
+7
+9
+3375
+1
+1
+11 1
+1000 1000
+-1
+1
+9 src/Tasks
+16 -Xmx256m -Xss64m
+4 Main
+16 Tasks.LegoBlocks
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2013.06.20
+31 Hackerrank - DynamicProgramming
+1
+18 javaUtils.InReader
+22 javaUtils.OutputWriter
+0
+0

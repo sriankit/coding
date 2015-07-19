@@ -1,0 +1,84 @@
+10 SpeedRadar
+12 averageSpeed
+6 double
+3
+3 int
+8 minLimit
+3 int
+8 maxLimit
+5 int[]
+8 readings
+4
+0
+3
+int 1
+int 50
+int[] 3
+45
+40
+50
+double 45.0
+1
+1
+3
+int 1
+int 50
+int[] 10
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+double 46.0
+1
+2
+3
+int 1
+int 50
+int[] 5
+42
+46
+48
+50
+52
+double 0.0
+1
+3
+3
+int 20
+int 60
+int[] 21
+25
+45
+45
+43
+24
+9
+51
+55
+60
+34
+61
+23
+40
+40
+47
+49
+33
+23
+47
+54
+54
+double 41.684210526315795
+1
+10 2014.08.01
+10 TCHS SRM 1
+0
+16 Tasks.SpeedRadar
+1
+3 64M

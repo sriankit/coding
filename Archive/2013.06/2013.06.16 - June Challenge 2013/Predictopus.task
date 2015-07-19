@@ -1,0 +1,28 @@
+11 Predictopus
+6 SINGLE
+8 STANDARD
+-1
+8 STANDARD
+-1
+1
+0
+8 1
+0.510
+
+6 10098
+
+1
+9 src/Tasks
+7 -Xmx64M
+4 Main
+17 Tasks.Predictopus
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2013.06.16
+19 June Challenge 2013
+1
+18 javaUtils.InReader
+22 javaUtils.OutputWriter
+0
+0

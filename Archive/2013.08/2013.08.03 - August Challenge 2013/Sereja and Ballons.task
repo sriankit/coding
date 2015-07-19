@@ -1,0 +1,41 @@
+18 Sereja and Ballons
+6 SINGLE
+8 STANDARD
+-1
+8 STANDARD
+-1
+1
+0
+38 5 3
+1 1 1 1 1
+5 5
+2 2
+1 3
+5
+4
+2
+0
+2
+3
+
+10 0
+1
+1
+2
+3
+
+1
+9 src/Tasks
+7 -Xmx64M
+4 Main
+22 Tasks.SerejaAndBallons
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2013.08.03
+21 August Challenge 2013
+1
+18 javaUtils.InReader
+22 javaUtils.OutputWriter
+0
+0

@@ -1,0 +1,25 @@
+5 Task1
+6 SINGLE
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+1
+0
+2 5	
+1 5
+1
+9 src/Tasks
+16 -Xmx256m -Xss64m
+4 Main
+11 Tasks.Task1
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2013.03.10
+0 
+1
+14 Utils.InReader
+15 Utils.OutWriter
+0
+1

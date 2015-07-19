@@ -1,0 +1,32 @@
+12 VForVendetta
+6 SINGLE
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+1
+0
+9 4
+0
+1
+2
+3
+8 1
+2
+7
+16
+1
+9 src/Tasks
+16 -Xmx256m -Xss64m
+4 Main
+18 Tasks.VForVendetta
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2014.01.22
+26 Prayaas - Setter's Edition
+1
+18 javaUtils.InReader
+22 javaUtils.OutputWriter
+0
+0

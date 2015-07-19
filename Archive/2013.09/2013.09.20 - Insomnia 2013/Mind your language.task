@@ -1,0 +1,116 @@
+18 Mind your language
+6 SINGLE
+8 STANDARD
+-1
+8 STANDARD
+-1
+3
+0
+1334 1
+25 a b c d e f g h i j k l m n o p q r s t u v w x y
+25 a b c d e f g h i j k l m n o p q r s t u v w x y
+25 a b c d e f g h i j k l m n o p q r s t u v w x y
+25 a b c d e f g h i j k l m n o p q r s t u v w x y
+25 a b c d e f g h i j k l m n o p q r s t u v w x y
+25 a b c d e f g h i j k l m n o p q r s t u v w x y
+25 a b c d e f g h i j k l m n o p q r s t u v w x y
+25 a b c d e f g h i j k l m n o p q r s t u v w x y
+25 a b c d e f g h i j k l m n o p q r s t u v w x y
+25 a b c d e f g h i j k l m n o p q r s t u v w x y
+25 a b c d e f g h i j k l m n o p q r s t u v w x y
+25 a b c d e f g h i j k l m n o p q r s t u v w x y
+25 a b c d e f g h i j k l m n o p q r s t u v w x y
+25 a b c d e f g h i j k l m n o p q r s t u v w x y
+25 a b c d e f g h i j k l m n o p q r s t u v w x y
+25 a b c d e f g h i j k l m n o p q r s t u v w x y
+25 a b c d e f g h i j k l m n o p q r s t u v w x y
+25 a b c d e f g h i j k l m n o p q r s t u v w x y
+25 a b c d e f g h i j k l m n o p q r s t u v w x y
+25 a b c d e f g h i j k l m n o p q r s t u v w x y
+25 a b c d e f g h i j k l m n o p q r s t u v w x y
+25 a b c d e f g h i j k l m n o p q r s t u v w x y
+25 a b c d e f g h i j k l m n o p q r s t u v w x y
+25 a b c d e f g h i j k l m n o p q r s t u v w x y
+25 a b c d e f g h i j k l m n o p q r s t u v w x y
+0 
+700
+
+-1
+1
+1
+59 1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+10000
+-1
+1
+2
+1332 1
+25 a b c d e f g h i j k l m n o p q r s t u v w x y
+25 a b c d e f g h i j k l m n o p q r s t u v w x y
+25 a b c d e f g h i j k l m n o p q r s t u v w x y
+25 a b c d e f g h i j k l m n o p q r s t u v w x y
+25 a b c d e f g h i j k l m n o p q r s t u v w x y
+25 a b c d e f g h i j k l m n o p q r s t u v w x y
+25 a b c d e f g h i j k l m n o p q r s t u v w x y
+25 a b c d e f g h i j k l m n o p q r s t u v w x y
+25 a b c d e f g h i j k l m n o p q r s t u v w x y
+25 a b c d e f g h i j k l m n o p q r s t u v w x y
+25 a b c d e f g h i j k l m n o p q r s t u v w x y
+25 a b c d e f g h i j k l m n o p q r s t u v w x y
+25 a b c d e f g h i j k l m n o p q r s t u v w x y
+25 a b c d e f g h i j k l m n o p q r s t u v w x y
+25 a b c d e f g h i j k l m n o p q r s t u v w x y
+25 a b c d e f g h i j k l m n o p q r s t u v w x y
+25 a b c d e f g h i j k l m n o p q r s t u v w x y
+25 a b c d e f g h i j k l m n o p q r s t u v w x y
+25 a b c d e f g h i j k l m n o p q r s t u v w x y
+25 a b c d e f g h i j k l m n o p q r s t u v w x y
+25 a b c d e f g h i j k l m n o p q r s t u v w x y
+25 a b c d e f g h i j k l m n o p q r s t u v w x y
+25 a b c d e f g h i j k l m n o p q r s t u v w x y
+25 a b c d e f g h i j k l m n o p q r s t u v w x y
+25 a b c d e f g h i j k l m n o p q r s t u v w x y
+0 
+1
+
+2 26
+1
+9 src/Tasks
+7 -Xmx64M
+4 Main
+22 Tasks.MindYourLanguage
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2013.09.20
+13 Insomnia 2013
+1
+18 javaUtils.InReader
+22 javaUtils.OutputWriter
+0
+1

@@ -1,0 +1,39 @@
+15 HoraceAndPrimes
+6 SINGLE
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+2
+0
+9 1
+90 90 3
+1 1
+1
+1
+63 5
+2 9 1
+2 9 2
+800 810 4
+999999 1000000 2
+100000 1000000 1000000
+9 4
+4
+5
+2
+0
+1
+9 src/Tasks
+16 -Xmx256m -Xss64m
+4 Main
+21 Tasks.HoraceAndPrimes
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2013.10.09
+4 SPOJ
+1
+18 javaUtils.InReader
+22 javaUtils.OutputWriter
+0
+1

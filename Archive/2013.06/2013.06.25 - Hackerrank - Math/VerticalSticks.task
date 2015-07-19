@@ -1,0 +1,42 @@
+14 VerticalSticks
+6 SINGLE
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+1
+0
+66 6
+3
+1 2 3
+3
+3 3 3
+3
+2 2 3
+4
+10 2 4 4
+5
+10 10 10 5 10
+6
+1 2 3 4 5 6
+30 4.33
+3.00
+4.00
+6.00
+5.80
+11.15
+1
+9 src/Tasks
+16 -Xmx256m -Xss64m
+8 Solution
+20 Tasks.VerticalSticks
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2013.06.25
+17 Hackerrank - Math
+1
+18 javaUtils.InReader
+22 javaUtils.OutputWriter
+0
+0

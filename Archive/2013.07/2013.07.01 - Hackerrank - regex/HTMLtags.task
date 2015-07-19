@@ -1,0 +1,27 @@
+8 HTMLtags
+6 SINGLE
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+1
+0
+213 2
+<p><a href="http://www.quackit.com/html/tutorial/html_links.cfm">Example Link</a></p>
+<div class="more-info"><a href="http://www.quackit.com/html/examples/html_links_examples.cfm">More Link Examples...</a></div>
+7 a;div;p
+1
+9 src/Tasks
+16 -Xmx256m -Xss64m
+8 Solution
+14 Tasks.HTMLtags
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2013.07.01
+18 Hackerrank - regex
+1
+18 javaUtils.InReader
+22 javaUtils.OutputWriter
+0
+0

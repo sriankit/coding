@@ -1,0 +1,34 @@
+6 ADV04L
+6 SINGLE
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+1
+0
+29 5
+1
+7
+40
+128
+1000000000000000
+28 2
+11
+65
+207
+1618033988749895
+1
+9 src/Tasks
+16 -Xmx256m -Xss64m
+4 Main
+12 Tasks.ADV04L
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2013.07.17
+4 Spoj
+1
+18 javaUtils.InReader
+22 javaUtils.OutputWriter
+0
+0

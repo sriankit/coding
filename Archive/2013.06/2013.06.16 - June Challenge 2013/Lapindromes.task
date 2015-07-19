@@ -1,0 +1,38 @@
+11 Lapindromes
+6 SINGLE
+8 STANDARD
+-1
+8 STANDARD
+-1
+1
+0
+38 6
+gaga
+abcde
+rotor
+xyzxy
+abbaab
+ababc
+
+21 YES
+NO
+YES
+YES
+NO
+NO
+
+1
+9 src/Tasks
+7 -Xmx64M
+4 Main
+17 Tasks.Lapindromes
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2013.06.16
+19 June Challenge 2013
+1
+18 javaUtils.InReader
+22 javaUtils.OutputWriter
+0
+0

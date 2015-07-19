@@ -1,0 +1,21 @@
+16 CorporateGifting
+6 SINGLE
+7 TASK_ID
+9 input.txt
+7 TASK_ID
+10 output.txt
+0
+9 src/Tasks
+16 -Xmx256m -Xss64m
+4 Main
+22 Tasks.CorporateGifting
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2015.01.18
+19 Facebook Hacker Cup
+1
+18 javaUtils.InReader
+22 javaUtils.OutputWriter
+0
+0

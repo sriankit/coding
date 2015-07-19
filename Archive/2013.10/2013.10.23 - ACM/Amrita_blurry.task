@@ -1,0 +1,62 @@
+13 Amrita_blurry
+6 SINGLE
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+3
+0
+0 
+0 
+0
+1
+71 4
+3 5
+ababa
+ababa
+ccccc
+4 5
+xyyyx
+yxxyy
+xyyxy
+xxyyx
+2 2
+ab
+cd
+2 2
+aa
+bc
+7 9
+6
+0
+1
+1
+2
+117 1
+10 10
+aaaaaaaaaa
+aaaaaaaaaa
+aaaaaaaaaa
+aaaaaaaaaa
+aaaaaaaaaa
+aaaaaaaaaa
+aaaaaaaaaa
+aaaaaaaaaa
+aaaaaaaaaa
+aaaaaaaaaa
+-1
+1
+9 src/Tasks
+16 -Xmx256m -Xss64m
+4 Main
+19 Tasks.Amrita_blurry
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2013.10.23
+3 ACM
+1
+18 javaUtils.InReader
+22 javaUtils.OutputWriter
+0
+1

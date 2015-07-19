@@ -1,0 +1,32 @@
+21 Yet Another Cute Girl
+6 SINGLE
+8 STANDARD
+-1
+8 STANDARD
+-1
+2
+0
+7 1
+1 10
+
+1 6
+1
+1
+7 1
+1 100
+-1
+1
+9 src/Tasks
+7 -Xmx64M
+4 Main
+24 Tasks.YetAnotherCuteGirl
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2013.11.01
+23 November Challenge 2013
+1
+18 javaUtils.InReader
+22 javaUtils.OutputWriter
+0
+0

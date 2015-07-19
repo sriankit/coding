@@ -1,0 +1,32 @@
+26 Little Elephant and Movies
+12 MULTI_NUMBER
+8 STANDARD
+-1
+8 STANDARD
+-1
+1
+0
+24 2
+3 1
+3 1 2
+4 3
+1 2 2 3
+
+5 2
+24
+
+1
+9 src/Tasks
+7 -Xmx64M
+4 Main
+29 Tasks.LittleElephantAndMovies
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2014.02.17
+23 February Challenge 2014
+1
+18 javaUtils.InReader
+22 javaUtils.OutputWriter
+0
+0

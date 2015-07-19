@@ -1,0 +1,34 @@
+6 ANUCBC
+6 SINGLE
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+1
+0
+37 2
+5 1
+1 2 -1 4 5
+9
+5 2
+1 2 3 4 5
+5
+15
+5 4
+8
+2
+1
+9 src/Tasks
+16 -Xmx256m -Xss64m
+4 Main
+12 Tasks.ANUCBC
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2014.04.14
+7 APRIL14
+1
+18 javaUtils.InReader
+22 javaUtils.OutputWriter
+0
+0

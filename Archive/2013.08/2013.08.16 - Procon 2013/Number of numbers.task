@@ -1,0 +1,35 @@
+17 Number of numbers
+6 SINGLE
+8 STANDARD
+-1
+8 STANDARD
+-1
+1
+0
+19 3
+11
+21
+3
+11
+10
+20
+
+6 6
+4
+5
+
+1
+9 src/Tasks
+7 -Xmx64M
+4 Main
+21 Tasks.NumberOfNumbers
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2013.08.16
+11 Procon 2013
+1
+18 javaUtils.InReader
+22 javaUtils.OutputWriter
+0
+0

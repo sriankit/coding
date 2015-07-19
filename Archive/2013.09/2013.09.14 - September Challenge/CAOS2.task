@@ -1,0 +1,38 @@
+5 CAOS2
+6 SINGLE
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+1
+0
+121 2
+3 10
+#^^^^^#^##
+^^^^^^^^^^
+^^^^^^^^^#
+7 10
+^^^^#^^^^#
+^^^^^^^^#^
+^^##^^#^^^
+#^^^^^^^#^
+^^#^^^^^^^
+^^^^#^^^^^
+^^^^^^^^^^
+3 0
+3
+1
+9 src/Tasks
+16 -Xmx256m -Xss64m
+4 Main
+11 Tasks.CAOS2
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2013.09.14
+19 September Challenge
+1
+18 javaUtils.InReader
+22 javaUtils.OutputWriter
+0
+1

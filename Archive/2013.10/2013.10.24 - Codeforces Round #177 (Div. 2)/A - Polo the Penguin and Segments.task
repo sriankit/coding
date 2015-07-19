@@ -1,0 +1,38 @@
+33 A - Polo the Penguin and Segments
+6 SINGLE
+8 STANDARD
+-1
+8 STANDARD
+-1
+2
+0
+12 2 3
+1 2
+3 4
+
+2 2
+
+1
+1
+16 3 7
+1 2
+3 3
+4 7
+
+2 0
+
+1
+9 src/Tasks
+8 -Xmx256M
+4 Main
+11 Tasks.TaskA
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2013.10.24
+30 Codeforces Round #177 (Div. 2)
+1
+18 javaUtils.InReader
+22 javaUtils.OutputWriter
+0
+0

@@ -1,0 +1,21 @@
+8 Tennison
+12 MULTI_NUMBER
+6 CUSTOM
+8 inp3.txt
+6 CUSTOM
+8 out3.txt
+0
+9 src/Tasks
+16 -Xmx256m -Xss64m
+4 Main
+14 Tasks.Tennison
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2013.11.23
+19 Facebook Hacker cup
+1
+18 javaUtils.InReader
+22 javaUtils.OutputWriter
+0
+0

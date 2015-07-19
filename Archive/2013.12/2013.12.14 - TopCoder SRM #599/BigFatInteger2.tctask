@@ -1,0 +1,72 @@
+14 BigFatInteger2
+11 isDivisible
+16 java.lang.String
+4
+3 int
+1 A
+3 int
+1 B
+3 int
+1 C
+3 int
+1 D
+6
+0
+4
+int 6
+int 1
+int 2
+int 1
+String
+9 divisible
+1
+1
+4
+int 2
+int 1
+int 6
+int 1
+String
+13 not divisible
+1
+2
+4
+int 1000000000
+int 1000000000
+int 1000000000
+int 200000000
+String
+9 divisible
+1
+3
+4
+int 8
+int 100
+int 4
+int 200
+String
+13 not divisible
+1
+4
+4
+int 999999937
+int 1000000000
+int 999999929
+int 1
+String
+13 not divisible
+1
+5
+4
+int 2
+int 2
+int 4
+int 1
+String
+9 divisible
+1
+10 2013.12.14
+17 TopCoder SRM #599
+0
+20 Tasks.BigFatInteger2
+0

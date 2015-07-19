@@ -1,0 +1,45 @@
+17 Chef and Segments
+6 SINGLE
+8 STANDARD
+-1
+8 STANDARD
+-1
+2
+0
+47 5
+1 2 3 4 5
+4
+1 2 3
+2 3 4
+1 1 1
+1 5 1000000000
+
+10 2
+2
+0
+120
+
+1
+1
+23 4
+7 7 7 7
+2
+1 1 7
+1 4 6
+3 0
+1
+1
+9 src/Tasks
+7 -Xmx64M
+4 Main
+21 Tasks.ChefAndSegments
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2013.08.05
+21 August Challenge 2013
+1
+18 javaUtils.InReader
+22 javaUtils.OutputWriter
+0
+0

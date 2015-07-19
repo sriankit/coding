@@ -1,0 +1,33 @@
+15 Chef and Digits
+6 SINGLE
+8 STANDARD
+-1
+8 STANDARD
+-1
+1
+0
+22 10 3
+0324152397
+1
+4
+7
+
+6 0
+7
+9
+
+1
+9 src/Tasks
+7 -Xmx64M
+4 Main
+19 Tasks.ChefAndDigits
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2014.04.14
+20 April Challenge 2014
+1
+18 javaUtils.InReader
+22 javaUtils.OutputWriter
+0
+0

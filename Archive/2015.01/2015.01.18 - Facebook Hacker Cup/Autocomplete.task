@@ -1,0 +1,21 @@
+12 Autocomplete
+12 MULTI_NUMBER
+6 CUSTOM
+10 input2.txt
+6 CUSTOM
+10 output.txt
+0
+9 src/Tasks
+16 -Xmx256m -Xss64m
+4 Main
+18 Tasks.Autocomplete
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2015.01.18
+19 Facebook Hacker Cup
+1
+18 javaUtils.InReader
+22 javaUtils.OutputWriter
+0
+0

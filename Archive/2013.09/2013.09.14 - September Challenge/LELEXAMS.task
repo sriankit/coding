@@ -1,0 +1,33 @@
+8 LELEXAMS
+6 SINGLE
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+1
+0
+41 2
+2
+50 1 2
+50 2 1
+3
+100 1 3
+47 2 1
+74 3 2
+23 0.500000000
+0.347800000
+1
+9 src/Tasks
+16 -Xmx256m -Xss64m
+4 Main
+14 Tasks.LELEXAMS
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2013.09.14
+19 September Challenge
+1
+18 javaUtils.InReader
+22 javaUtils.OutputWriter
+0
+1

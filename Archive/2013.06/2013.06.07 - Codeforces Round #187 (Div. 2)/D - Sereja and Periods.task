@@ -1,0 +1,35 @@
+22 D - Sereja and Periods
+6 SINGLE
+8 STANDARD
+-1
+8 STANDARD
+-1
+2
+0
+14 10 3
+abab
+bab
+
+2 3
+
+1
+1
+109 901 8
+kikjbkgkkjeeficiigjjidfhkfdckjdkkbkfhkhdcjidjbfdfkbhbfjeiffkfgcaigck
+gcjifhjjfedbfbdhickjbkkghfhbigkeff
+-1
+1
+9 src/Tasks
+8 -Xmx256M
+4 Main
+11 Tasks.TaskD
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2013.06.07
+30 Codeforces Round #187 (Div. 2)
+1
+18 javaUtils.InReader
+22 javaUtils.OutputWriter
+0
+0

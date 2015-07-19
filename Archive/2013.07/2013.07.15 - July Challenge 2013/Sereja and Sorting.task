@@ -1,0 +1,39 @@
+18 Sereja and Sorting
+6 SINGLE
+8 STANDARD
+-1
+8 STANDARD
+-1
+1
+0
+153 7
+1 2
+1
+5 3
+10 1 2 3 4
+10 3
+10 1 2 3 4 5 6 7 9 10
+6 3
+6 1 4 3 2 5
+20 3
+4 5 3 2 6 7 5 4 3 4 3 4 7 8 34 2 45 2 12 2
+10 2
+6 7 8 9 10 1 2 3 4 5
+5 2
+5 5 5 5 5
+-1
+1
+9 src/Tasks
+7 -Xmx64M
+4 Main
+22 Tasks.SerejaAndSorting
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2013.07.15
+19 July Challenge 2013
+1
+18 javaUtils.InReader
+22 javaUtils.OutputWriter
+0
+0

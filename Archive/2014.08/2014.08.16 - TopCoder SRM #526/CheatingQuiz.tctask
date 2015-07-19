@@ -1,0 +1,92 @@
+12 CheatingQuiz
+7 howMany
+5 int[]
+1
+16 java.lang.String
+7 answers
+5
+0
+1
+String
+5 AAAAA
+int[] 5
+1
+1
+1
+1
+1
+1
+1
+1
+String
+6 AAABBB
+int[] 6
+2
+2
+2
+1
+1
+1
+1
+2
+1
+String
+7 CAAAAAC
+int[] 7
+2
+2
+2
+2
+2
+2
+1
+1
+3
+1
+String
+4 BBCA
+int[] 4
+3
+3
+2
+1
+1
+4
+1
+String
+27 BACACABCBBBBCAAAAACCCABBCAA
+int[] 27
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+2
+1
+1
+1
+10 2014.08.16
+17 TopCoder SRM #526
+0
+18 Tasks.CheatingQuiz
+1
+3 64M

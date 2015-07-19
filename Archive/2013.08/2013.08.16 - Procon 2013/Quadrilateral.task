@@ -1,0 +1,52 @@
+13 Quadrilateral
+6 SINGLE
+8 STANDARD
+-1
+8 STANDARD
+-1
+3
+0
+35 2
+0 0
+1 0
+1 1
+0 1
+1 1
+7 5
+1 9
+-5 5
+
+15 SQUARE
+RHOMBUS
+
+1
+1
+19 1
+0 1
+0 -1
+1 0
+-1 0
+6 SQUARE
+1
+2
+18 1
+-1 0
+0 1
+1 1
+2 0
+13 QUADRILATERAL
+1
+9 src/Tasks
+7 -Xmx64M
+4 Main
+19 Tasks.Quadrilateral
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2013.08.16
+11 Procon 2013
+1
+18 javaUtils.InReader
+22 javaUtils.OutputWriter
+0
+0

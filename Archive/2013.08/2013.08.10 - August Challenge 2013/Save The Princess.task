@@ -1,0 +1,39 @@
+17 Save The Princess
+12 MULTI_NUMBER
+8 STANDARD
+-1
+8 STANDARD
+-1
+1
+0
+84 4
+5
+1 2 3 4 4
+0 100 100 0 50
+2
+5 5
+50 60
+4
+1 3 2 7
+20 40 80 30
+4
+5 2 3 1
+100 0 50 20
+23 0.5000000
+0.8000000
+0.3
+1
+9 src/Tasks
+7 -Xmx64M
+4 Main
+21 Tasks.SaveThePrincess
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2013.08.10
+21 August Challenge 2013
+1
+18 javaUtils.InReader
+22 javaUtils.OutputWriter
+0
+0

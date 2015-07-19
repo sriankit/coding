@@ -1,0 +1,38 @@
+22 Longest Common Pattern
+12 MULTI_NUMBER
+8 STANDARD
+-1
+8 STANDARD
+-1
+1
+0
+48 4
+abcd
+xyz
+abcd
+bcda
+aabc
+acaa
+Codechef
+elfedcc
+
+8 0
+4
+3
+5
+
+1
+9 src/Tasks
+7 -Xmx64M
+4 Main
+26 Tasks.LongestCommonPattern
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2014.02.16
+23 February Challenge 2014
+1
+18 javaUtils.InReader
+22 javaUtils.OutputWriter
+0
+0

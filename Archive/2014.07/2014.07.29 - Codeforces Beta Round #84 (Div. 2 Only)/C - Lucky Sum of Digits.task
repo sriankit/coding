@@ -1,0 +1,33 @@
+23 C - Lucky Sum of Digits
+6 SINGLE
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+2
+0
+3 11
+
+3 47
+
+1
+1
+3 10
+
+3 -1
+
+1
+9 src/Tasks
+8 -Xmx256M
+4 Main
+11 Tasks.TaskC
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2014.07.29
+39 Codeforces Beta Round #84 (Div. 2 Only)
+1
+18 javaUtils.InReader
+22 javaUtils.OutputWriter
+0
+0

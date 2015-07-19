@@ -1,0 +1,39 @@
+4 NHAY
+6 SINGLE
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+1
+0
+73 2
+na
+banananobano
+6
+foobar
+foo
+9
+foobarfoo
+barfoobarfoobarfoobarfoobarfoo
+14 2
+4
+
+3
+9
+15
+21
+1
+9 src/Tasks
+16 -Xmx256m -Xss64m
+4 Main
+10 Tasks.NHAY
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2013.12.12
+4 Spoj
+1
+18 javaUtils.InReader
+22 javaUtils.OutputWriter
+0
+0

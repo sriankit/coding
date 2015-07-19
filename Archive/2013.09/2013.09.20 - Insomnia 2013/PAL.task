@@ -1,0 +1,30 @@
+3 PAL
+6 SINGLE
+8 STANDARD
+-1
+8 STANDARD
+-1
+1
+0
+9 2
+10
+100
+
+6 28
+25
+
+1
+9 src/Tasks
+7 -Xmx64M
+4 Main
+9 Tasks.PAL
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2013.09.20
+13 Insomnia 2013
+1
+18 javaUtils.InReader
+22 javaUtils.OutputWriter
+0
+1

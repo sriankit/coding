@@ -1,0 +1,67 @@
+9 RandomGCD
+11 countTuples
+3 int
+4
+3 int
+1 N
+3 int
+1 K
+3 int
+3 low
+3 int
+4 high
+6
+0
+4
+int 1
+int 1
+int 5
+int 5
+int 0
+1
+1
+4
+int 2
+int 100
+int 2
+int 4
+int 0
+1
+2
+4
+int 1
+int 5
+int 5
+int 5
+int 1
+1
+3
+4
+int 73824
+int 17347
+int 9293482
+int 9313482
+int 0
+1
+4
+4
+int 222
+int 222
+int 222
+int 22222
+int 339886855
+1
+5
+4
+int 2
+int 1
+int 5
+int 7
+int 2
+1
+10 2014.08.16
+17 TopCoder SRM #613
+0
+15 Tasks.RandomGCD
+0
+4 256M

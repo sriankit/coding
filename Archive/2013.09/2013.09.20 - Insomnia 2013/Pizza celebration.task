@@ -1,0 +1,38 @@
+17 Pizza celebration
+6 SINGLE
+8 STANDARD
+-1
+8 STANDARD
+-1
+1
+0
+42 2
+6 4
+1 2
+2 3
+3 4
+5 6
+7 4
+1 2
+2 3
+3 4
+6 7
+
+4 6
+8
+
+1
+9 src/Tasks
+7 -Xmx64M
+4 Main
+22 Tasks.PizzaCelebration
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2013.09.20
+13 Insomnia 2013
+1
+18 javaUtils.InReader
+22 javaUtils.OutputWriter
+0
+1

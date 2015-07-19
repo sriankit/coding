@@ -1,0 +1,44 @@
+8 W String
+6 SINGLE
+8 STANDARD
+-1
+8 STANDARD
+-1
+1
+0
+148 10
+aaaaa#bb#cc#dddd
+acb#aab#bab#accba
+abc#dda#bb#bb#aca
+aa
+###abcs##ac##bc##dd#aaaa###cccc
+a#a
+a#a#a#
+aa#bab#ccc##dddd
+aa#bbb#cccc#ddddd#eeeeee
+####
+25 16
+10
+11
+0
+16
+0
+0
+14
+21
+0
+1
+9 src/Tasks
+7 -Xmx64M
+4 Main
+13 Tasks.WString
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2013.06.16
+19 June Challenge 2013
+1
+18 javaUtils.InReader
+22 javaUtils.OutputWriter
+0
+0

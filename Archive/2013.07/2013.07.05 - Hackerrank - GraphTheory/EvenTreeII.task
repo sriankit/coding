@@ -1,0 +1,34 @@
+10 EvenTreeII
+6 SINGLE
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+1
+0
+41 10 9
+2 1
+3 1
+4 3
+5 2
+6 1
+7 2
+8 6
+9 8
+10 8
+1 2
+1
+9 src/Tasks
+16 -Xmx256m -Xss64m
+8 Solution
+16 Tasks.EvenTreeII
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2013.07.05
+24 Hackerrank - GraphTheory
+1
+18 javaUtils.InReader
+22 javaUtils.OutputWriter
+0
+0

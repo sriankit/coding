@@ -1,0 +1,30 @@
+7 PERMUTE
+6 SINGLE
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+1
+0
+14 3
+4 5
+5 8
+8 12
+9 4
+72
+9600
+1
+9 src/Tasks
+16 -Xmx256m -Xss64m
+4 Main
+13 Tasks.PERMUTE
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2013.06.16
+25 July Challenge - Codechef
+1
+18 javaUtils.InReader
+22 javaUtils.OutputWriter
+0
+0

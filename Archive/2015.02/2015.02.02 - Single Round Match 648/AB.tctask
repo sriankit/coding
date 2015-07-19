@@ -1,0 +1,61 @@
+2 AB
+12 createString
+16 java.lang.String
+2
+3 int
+1 N
+3 int
+1 K
+7
+0
+2
+int 3
+int 2
+String
+3 ABB
+1
+1
+2
+int 2
+int 0
+String
+2 BA
+1
+2
+2
+int 5
+int 8
+String
+0 
+1
+3
+2
+int 10
+int 12
+String
+10 BAABBABAAB
+1
+4
+2
+int 50
+int 0
+-1
+1
+5
+2
+int 50
+int 1200
+-1
+1
+6
+2
+int 50
+int 625
+-1
+1
+10 2015.02.02
+22 Single Round Match 648
+0
+8 Tasks.AB
+0
+4 256M

@@ -1,0 +1,32 @@
+8 Cylinder
+6 SINGLE
+8 STANDARD
+-1
+8 STANDARD
+-1
+1
+0
+14 3
+4 4
+2 3
+1 6
+
+45 3.471819240663
+0.824190535860
+0.785398163397
+
+1
+9 src/Tasks
+7 -Xmx64M
+4 Main
+14 Tasks.Cylinder
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2013.04.15
+20 April Challenge 2013
+1
+18 javaUtils.InReader
+22 javaUtils.OutputWriter
+0
+1

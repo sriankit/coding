@@ -1,0 +1,43 @@
+21 Edit Distance on Grid
+12 MULTI_NUMBER
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+1
+0
+114 4
+3 4 10 40
+BWWB
+WWWW
+BWWB
+3 4 10 40
+BWWB
+WWWW
+BWWB
+3 4 10 40
+BWWB
+WWWW
+BWWB
+5 5 5 5
+WBWBW
+WBBWB
+BWWWB
+BWBBB
+BBWBW
+-1
+1
+9 src/Tasks
+7 -Xmx64M
+4 Main
+24 Tasks.EditDistanceOnGrid
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2013.10.14
+22 October Challenge 2013
+1
+18 javaUtils.InReader
+22 javaUtils.OutputWriter
+0
+1

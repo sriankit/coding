@@ -1,0 +1,49 @@
+28 D - Lucky Common Subsequence
+6 SINGLE
+8 STANDARD
+-1
+8 STANDARD
+-1
+4
+0
+35 AJKEQSLOBSROFGZ
+OVGURWZLWVLUXTH
+OZ
+
+4 ORZ
+
+1
+1
+7 AA
+A
+A
+
+2 0
+
+1
+2
+10 BDX
+BDA
+BD
+-1
+1
+3
+10 ABC
+BCD
+CD
+-1
+1
+9 src/Tasks
+8 -Xmx512M
+4 Main
+11 Tasks.TaskD
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2013.09.21
+30 Codeforces Round #201 (Div. 2)
+1
+18 javaUtils.InReader
+22 javaUtils.OutputWriter
+0
+1

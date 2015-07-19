@@ -1,0 +1,32 @@
+13 Funny Marbles
+6 SINGLE
+8 STANDARD
+-1
+8 STANDARD
+-1
+1
+0
+47 5 3
+1000 1002 1003 1004 1005
+S 0 2
+G 0 3
+S 0 2
+
+10 3005
+3008
+
+1
+9 src/Tasks
+7 -Xmx64M
+4 Main
+18 Tasks.FunnyMarbles
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2013.12.15
+23 December Challenge 2013
+1
+18 javaUtils.InReader
+22 javaUtils.OutputWriter
+0
+0

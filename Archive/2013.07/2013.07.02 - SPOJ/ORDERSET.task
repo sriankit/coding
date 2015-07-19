@@ -1,0 +1,36 @@
+8 ORDERSET
+6 SINGLE
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+1
+0
+36 8
+I -1
+I -1
+I 2
+C 0
+K 2
+D -1
+K 1
+K 2
+13 1
+2
+2
+invalid
+1
+9 src/Tasks
+16 -Xmx256m -Xss64m
+4 Main
+14 Tasks.ORDERSET
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2013.07.02
+4 SPOJ
+1
+18 javaUtils.InReader
+22 javaUtils.OutputWriter
+0
+0

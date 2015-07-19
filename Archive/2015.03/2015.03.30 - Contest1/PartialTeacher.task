@@ -1,0 +1,21 @@
+14 PartialTeacher
+12 MULTI_NUMBER
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+0
+9 src/Tasks
+16 -Xmx256m -Xss64m
+4 Main
+20 Tasks.PartialTeacher
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2015.03.30
+8 Contest1
+1
+18 javaUtils.InReader
+22 javaUtils.OutputWriter
+0
+0

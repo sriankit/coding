@@ -1,0 +1,46 @@
+22 H-on-K A Incorporation
+6 SINGLE
+8 STANDARD
+-1
+8 STANDARD
+-1
+2
+0
+25 4
+1
+56
+2
+16 10
+1
+57
+1
+16
+
+30 56
+46 33
+THIEF
+UNCLASSIFIABLE
+
+1
+1
+23 2
+5
+5 10 15 20 25
+2
+0 1
+-1
+1
+9 src/Tasks
+7 -Xmx64M
+4 Main
+24 Tasks.HonKAIncorporation
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2013.09.20
+13 Insomnia 2013
+1
+18 javaUtils.InReader
+22 javaUtils.OutputWriter
+0
+1

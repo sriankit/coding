@@ -1,0 +1,32 @@
+8 War Zone
+6 SINGLE
+8 STANDARD
+-1
+8 STANDARD
+-1
+1
+0
+43 2
+10
+1 2 3 4 5 6 7 8 9 10
+5
+88 12 66 35 78
+
+35 1 2 9 0 0 0 0 10 8 7
+12 88 0 78 35
+
+1
+9 src/Tasks
+7 -Xmx64M
+4 Main
+13 Tasks.WarZone
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2013.09.21
+13 Insomnia 2013
+1
+18 javaUtils.InReader
+22 javaUtils.OutputWriter
+0
+1

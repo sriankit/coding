@@ -1,0 +1,78 @@
+4 cmi1
+6 SINGLE
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+5
+0
+17 4
+1 4
+2 5
+4 5
+5 6
+9 3
+1 2 3 1
+1
+1
+44 10
+1 7
+2 4
+2 6
+2 9
+2 9
+4 6
+5 5
+6 8
+8 9
+10 20
+21 6
+1 2 3 4 5 6 2 2 1 1
+1
+2
+24 5
+1 4
+5 6
+7 8
+9 11
+10 11
+11 2
+1 1 1 1 2
+1
+3
+27 6
+1 2
+2 3
+2 4
+6 7
+7 11
+8 9
+
+13 3
+1 2 3 1 2 1
+1
+4
+25 6
+1 2
+2 3
+2 4
+5 6
+6 9
+7 8
+13 3
+1 2 3 1 2 1
+1
+9 src/Tasks
+16 -Xmx256m -Xss64m
+4 Main
+10 Tasks.cmi1
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2013.04.07
+14 Hackerrank-CMI
+1
+18 javaUtils.InReader
+22 javaUtils.OutputWriter
+0
+1

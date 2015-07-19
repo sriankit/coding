@@ -1,0 +1,42 @@
+package Tasks;
+
+import javaUtils.InReader;
+import javaUtils.OutputWriter;
+
+import java.math.BigInteger;
+
+public class prime11 {
+    String pi = "3141592653589793238462643383279502884197169399375105820974944592307816406286208998628034825342117067982148086513282306647093844609550582231725359408128481117450284102701938521105559644622948954930381964428810975665933446128475648233786783165271201909145648566923460348610454326648213393607260249141273724587006606315588174881520920962829254091715364367892590360011330530548820466521384146951941511609433057270365759591953092186117381932611793105118548074462379962749567351885752724891227938183011949129833673362440656643086021394946395224737190702179860943702770539217176293176752384674818467669405132000568127145263560827785771342757789609173637178721468440901224953430146549585371050792279689258923542019956112129021960864034418159813629774771309960518707211349999998372978049951059731732816096318595024459455346908302642522308253344685035261931188171010003137838752886587533208381420617177669147303598253490428755468731159562863882353787593751957781857780532171226806613001927876611195909216420198";
+
+    boolean isPalindrome(String s) {
+        int i = 0, j = s.length() - 1;
+        for (i = 0; i < j; i++, j--) {
+            if (s.charAt(i) != s.charAt(j)) return false;
+        }
+        return true;
+    }
+
+
+    public void solve(int testNumber, InReader in, OutputWriter out) {
+        StringBuilder stringBuilder = new StringBuilder();
+        stringBuilder.append(pi.substring(0, 11));
+        int ind = 0;
+        for (int i = 11; i + 11 < pi.length(); i++) {
+            String s = stringBuilder.toString();
+            long num = Long.valueOf(s);
+            BigInteger bignum = BigInteger.valueOf(num);
+            if (s.charAt(0) != '0' && bignum.isProbablePrime(110)) {
+                ind++;
+                System.out.printf("prime " + "%2d" + " is " + s + " at index " + (i - 11 + 1) + '\n', ind);
+                if (ind == 11) {
+                    System.out.println(num);
+                    System.out.println(i - 11 + 1);
+                    break;
+                }
+            }
+            stringBuilder.deleteCharAt(0);
+            stringBuilder.append(pi.charAt(i));
+        }
+
+    }
+}

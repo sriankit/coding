@@ -1,0 +1,49 @@
+3 HCD
+12 MULTI_NUMBER
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+2
+0
+12 5
+1
+2
+3
+4
+5
+
+10 2
+2
+4
+6
+10
+1
+1
+77 5
+31212121212121
+43242342345235
+53254232222222
+10023534543444
+10132111111111
+
+49 562801742
+226312047
+805212357
+212372833
+111756416
+1
+9 src/Tasks
+16 -Xmx256m -Xss64m
+4 Main
+9 Tasks.HCD
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2015.04.05
+10 HE-Testing
+1
+18 javaUtils.InReader
+22 javaUtils.OutputWriter
+0
+0

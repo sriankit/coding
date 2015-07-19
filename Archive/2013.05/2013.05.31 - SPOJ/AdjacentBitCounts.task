@@ -1,0 +1,44 @@
+17 AdjacentBitCounts
+6 SINGLE
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+1
+0
+81 10
+1 5 2
+2 20 8
+3 30 17
+4 40 24
+5 50 37
+6 60 52
+7 70 59
+8 80 73
+9 90 84
+10 100 90
+92 1 6
+2 63426
+3 1861225
+4 168212501
+5 44874764
+6 160916
+7 22937308
+8 99167
+9 15476
+10 23076518
+1
+9 src/Tasks
+16 -Xmx256m -Xss64m
+4 Main
+23 Tasks.AdjacentBitCounts
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2013.05.31
+4 SPOJ
+1
+18 javaUtils.InReader
+22 javaUtils.OutputWriter
+0
+1

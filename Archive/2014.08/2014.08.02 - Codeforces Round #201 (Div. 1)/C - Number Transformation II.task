@@ -1,0 +1,43 @@
+28 C - Number Transformation II
+6 SINGLE
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+3
+0
+14 3
+3 4 5
+30 17
+
+2 6
+
+1
+1
+17 3
+5 6 7
+1000 200
+
+4 206
+
+1
+2
+37 3
+43345444 3424 22222222
+234324 10002
+-1
+1
+9 src/Tasks
+8 -Xmx256M
+4 Main
+11 Tasks.TaskC
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2014.08.02
+30 Codeforces Round #201 (Div. 1)
+1
+18 javaUtils.InReader
+22 javaUtils.OutputWriter
+0
+1
